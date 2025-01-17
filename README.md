@@ -26,7 +26,10 @@ ________________________________________
 ________________________________________
 
 🔗 Connect With Me
-•	Email: [muhammadmoosa44@gmail.com]
+
+* Email: muhammadmoosa44@gmail.com
+* Linkedin: www.linkedin.com/in/muhammaddmoosa
+
 Feel free to explore my repositories and reach out if you'd like to collaborate or just say hi! 😊
 
 
